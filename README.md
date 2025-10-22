@@ -517,7 +517,8 @@ sudo service mongod start
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado para la asignatura de **Tecnologías en Internet**
+Proyecto desarrollado para la asignatura de **Tecnologías en Internet** por:
+**JHOEL TITIRICO CHARCA**
 
 ## 📄 Licencia
 
