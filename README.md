@@ -1,4 +1,4 @@
-# 🎓 SNACKSOFT - Sistema de Gestión de Cafetería Universitaria
+# 🎓 SNACKSOFT - Sistema de Gestión Universitaria UAB
 
 ![Node.js](https://img.shields.io/badge/Node.js-20.12.1-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue)
@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
 ![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey)
 
-Sistema Full-Stack de gestión de pedidos en línea y análisis de feedback para servicios de alimentación universitaria, desarrollado con arquitectura REST API y patrón de diseño MVC.
+Sistema Full-Stack de gestión de pedidos en línea y análisis de feedback para servicios de alimentación para la Universidad Adventista de Bolivia, desarrollado con patron arquitectónico MODULAR POR CAPAS.
 
 ---
 
@@ -755,10 +755,11 @@ http://localhost:3000/api-docs
 ## 👥 Autores
 
 **Proyecto desarrollado por:**
-- Joel Quispe - [GitHub](https://github.com/joelj0el)
+- Jhoel Titirico Charca - [GitHub](https://github.com/joelj0el)
 
+**Carrera**: INGENIERIA DE SISTEMAS 
 **Curso**: Tecnologías de Internet  
-**Institución**: Universidad Autónoma del Beni José Ballivián  
+**Institución**: UNIVERSIDAD ADVENTISTA DE BOLIVIA 
 **Año**: 2025
 
 ---
@@ -791,9 +792,8 @@ Si tienes preguntas o problemas:
 
 ## 🙏 Agradecimientos
 
-- Universidad Autónoma del Beni José Ballivián
-- Docentes de Tecnologías de Internet
-- Comunidad de desarrolladores open-source
+- UAB
+- Docente de Tecnologías de Internet: Victor Hugo SARZURI FLORES
 
 ---
 
